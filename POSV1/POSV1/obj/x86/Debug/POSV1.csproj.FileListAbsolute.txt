@@ -1,0 +1,50 @@
+C:\Users\Administrator\Desktop\New Folder (3)\POSV1\POSV1\bin\Debug\POSV1.exe
+C:\Users\Administrator\Desktop\New Folder (3)\POSV1\POSV1\bin\Debug\POSV1.pdb
+C:\Users\Administrator\Desktop\New Folder (3)\POSV1\POSV1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New Folder (3)\POSV1\POSV1\obj\x86\Debug\POSV1.Main.resources
+C:\Users\Administrator\Desktop\New Folder (3)\POSV1\POSV1\obj\x86\Debug\POSV1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New Folder (3)\POSV1\POSV1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\New Folder (3)\POSV1\POSV1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\New Folder (3)\POSV1\POSV1\obj\x86\Debug\POSV1.exe
+C:\Users\Administrator\Desktop\New Folder (3)\POSV1\POSV1\obj\x86\Debug\POSV1.pdb
+C:\Users\Administrator\Desktop\New Folder (3)\POSV1\POSV1\obj\x86\Debug\POSV1.Quantity.resources
+C:\Users\Administrator\Desktop\New Folder (3)\POSV1\POSV1\obj\x86\Debug\POSV1.SplashScreen.resources
+K:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.exe
+K:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.pdb
+K:\Csc240\Programs\POSV1\POSV1\bin\Debug\POSV1.exe
+K:\Csc240\Programs\POSV1\POSV1\bin\Debug\POSV1.pdb
+K:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.Main.resources
+K:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.Properties.Resources.resources
+K:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.Quantity.resources
+K:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.SplashScreen.resources
+K:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.exe
+E:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.pdb
+K:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.About.resources
+K:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.Help.resources
+E:\Csc240\Programs\POSV1\POSV1\bin\Debug\POSV1.exe
+E:\Csc240\Programs\POSV1\POSV1\bin\Debug\POSV1.pdb
+E:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.About.resources
+E:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.Help.resources
+E:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.Main.resources
+E:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.Properties.Resources.resources
+E:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.Quantity.resources
+E:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\POSV1.SplashScreen.resources
+E:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Csc240\Programs\POSV1\POSV1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rusty\Desktop\POSV1\POSV1\obj\x86\Debug\POSV1.exe
+C:\Users\Rusty\Desktop\POSV1\POSV1\obj\x86\Debug\POSV1.pdb
+C:\Users\Rusty\Desktop\POSV1\POSV1\bin\Debug\POSV1.exe
+C:\Users\Rusty\Desktop\POSV1\POSV1\bin\Debug\POSV1.pdb
+C:\Users\Rusty\Desktop\POSV1\POSV1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rusty\Desktop\POSV1\POSV1\obj\x86\Debug\POSV1.About.resources
+C:\Users\Rusty\Desktop\POSV1\POSV1\obj\x86\Debug\POSV1.Help.resources
+C:\Users\Rusty\Desktop\POSV1\POSV1\obj\x86\Debug\POSV1.Main.resources
+C:\Users\Rusty\Desktop\POSV1\POSV1\obj\x86\Debug\POSV1.Properties.Resources.resources
+C:\Users\Rusty\Desktop\POSV1\POSV1\obj\x86\Debug\POSV1.Quantity.resources
+C:\Users\Rusty\Desktop\POSV1\POSV1\obj\x86\Debug\POSV1.SplashScreen.resources
+C:\Users\Rusty\Desktop\POSV1\POSV1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rusty\Desktop\POSV1\POSV1\obj\x86\Debug\GenerateResource.write.1.tlog
